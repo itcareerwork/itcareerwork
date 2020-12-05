@@ -1,7 +1,25 @@
-### Hi there 👋
+#### 
+<p>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=itcareerwork&styles=plastic&color=yellow">
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/itcareerwork">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itcareerwork&layout=compact&langs_count=10">
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/itcareerwork">
+    <img src="https://github-readme-stats.vercel.app/api?username=itcareerwork&show_icons=true&include_all_commits=true&theme=gruvbox">
+  </a>
+</p>
 
 <!--
 **itcareerwork/itcareerwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +32,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
